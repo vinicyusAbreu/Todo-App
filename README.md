@@ -13,6 +13,9 @@ O aplicativo de tarefas clássico feito em React.
     <li><strong> Desenvolvido com React e Styled Component.</strong></li>
 </ul>
 
+<h2 ><a href="https://vinicyusabreu.github.io/Todo-App/" target="_blank">🚀 Link do Projeto 🚀</a></h2>
+
+
 ## ✨ Demonstração    
 Veja abaixo um gif do projeto.</br>
 [![Image from Gyazo](https://i.gyazo.com/e0d4c3842f61882eb9b6e8dfc6f2bf8b.gif)](https://gyazo.com/e0d4c3842f61882eb9b6e8dfc6f2bf8b)
