@@ -27,7 +27,10 @@ const Itens = () => {
         setTodos(novoTodos);
     }
     const deletarTodos = () => {
-        setTodos([]);
+
+        const novoTodos = todos.filter(todo => todo.done === false);
+        setTodos(novoTodos);
+
     }
 
     switch (opcao) {
